@@ -1,6 +1,6 @@
 # Cómo recargar una cinta entintada de nailon  
 
-Aunque existen en la web otras instrucciones acerca de como recargar una cinta de tinta, las que he encontrado no son eficaces para cintas de nailon. La cinta de nailon no se puede cargar rapidamente por echar unas cuantas gotas y esperar que se distribuya completamente[^1]. Para cargar bien la cinta, hace falta distribuir e introducir la tinta de manera activa. Este artículo describe un método de recargar su cinta de nailon con un pincel para lograr una imprenta uniforme desde la primera letra tecleada.  
+Aunque existen en la web otras instrucciones acerca de como recargar una cinta de tinta, las que he encontrado no son eficaces para cintas de nailon. La cinta de nailon no se puede cargar rapidamente por echar unas cuantas gotas y esperar que se distribuya completamente[^1]: Tiempo y tinta. Para cargar bien la cinta, hace falta distribuir e introducir la tinta de manera activa. Este artículo describe un método de recargar su cinta de nailon con un pincel para lograr una imprenta uniforme desde la primera letra tecleada.  
 
 ### Materiales:  
 
