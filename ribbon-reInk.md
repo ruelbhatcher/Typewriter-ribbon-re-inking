@@ -1,6 +1,6 @@
 # How to re-ink a nylon ink ribbon  
 
-Although various other written instructions for re-inking ink ribbons are available on the web, those that I have found are not effective for nylon ribbons. Nylon ribbon cannot be quicly loaded with ink by applying a few drops and waiting for it to spread out completely[^1](1.time-and-ink). To ink the ribbon well, it is necessary to actively spread and work in the ink. This article describes a way to re-ink your nylon ribbon using a brush, resulting in uniform printing from the first letter typed.  
+Although various other written instructions for re-inking ink ribbons are available on the web, those that I have found are not effective for nylon ribbons. Nylon ribbon cannot be quicly loaded with ink by applying a few drops and waiting for it to spread out completely[^1]. To ink the ribbon well, it is necessary to actively spread and work in the ink. This article describes a way to re-ink your nylon ribbon using a brush, resulting in uniform printing from the first letter typed.  
 
 ### Materials:  
 
@@ -46,7 +46,7 @@ Although various other written instructions for re-inking ink ribbons are availa
 * If an area of the ribbon is too wet: clean the bristles of the brush on dry paper and then pass the tip of the brush over the wet area to absorb the excess ink.  
 * If an area of ribbon is too dry: first, place the tip of the brush on the adjacent damp area and pull with firm pressure towards the dry area. Repeat this process until the ink is uniformly distributed. If the area remains too dry, wet the brush with a small amount of ink and apply.  
 
-1. Time and ink. Here the auther must admit that he is somewhat (though not impossibly) impatient and that he prefers typing to inking. He applied a drop of ink every inch or so along the whole length of the ribbon, wound the ribbon up, and let it sit for 2 hours. Upon examining the ribbon, he found that the ink was pooled just where it had been applied. But maybe you yourself have more time and patience available. So, if there's no hurry, why not wait 2 days, or 2 weeks, or even two months? Given enough time, it seems probable that the ink will indeed diperse throughout the ribbon.  
+[^1]: Time and ink. Here the auther must admit that he is somewhat (though not impossibly) impatient and that he prefers typing to inking. He applied a drop of ink every inch or so along the whole length of the ribbon, wound the ribbon up, and let it sit for 2 hours. Upon examining the ribbon, he found that the ink was pooled just where it had been applied. But maybe you yourself have more time and patience available. So, if there's no hurry, why not wait 2 days, or 2 weeks, or even two months? Given enough time, it seems probable that the ink will indeed diperse throughout the ribbon.  
 
 <!-- [[cinta-recarga.md]] -->  
 <!-- [[typewriter.md]] -->  
