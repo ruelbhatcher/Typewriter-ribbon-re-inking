@@ -1,6 +1,6 @@
 # How to re-ink a nylon ink ribbon  
 
-Although various other written instructions for re-inking ink ribbons are available on the web, those that I have found do not work for nylon ribbons. Nylon ribbon cannot be quicly loaded with ink by applying a few drops and waiting for it to spread out completely<super>[1](1.time-and-ink)</super>. To ink the ribbon well, it is necessary to actively spread and work in the ink. This article describes a way to re-ink your nylon ribbon using a brush, resulting in uniform printing from the first letter typed.  
+Although various other written instructions for re-inking ink ribbons are available on the web, those that I have found are not effective for nylon ribbons. Nylon ribbon cannot be quicly loaded with ink by applying a few drops and waiting for it to spread out completely[^1]. To ink the ribbon well, it is necessary to actively spread and work in the ink. This article describes a way to re-ink your nylon ribbon using a brush, resulting in uniform printing from the first letter typed.  
 
 ### Materials:  
 
