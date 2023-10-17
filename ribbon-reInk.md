@@ -1,6 +1,6 @@
 # How to re-ink a nylon ink ribbon  
 
-Although various other written instructions for re-inking ink ribbons are available on the web, those that I have found are not effective for nylon ribbons. Nylon ribbon cannot be quickly loaded with ink by applying a few drops and waiting for it to spread out completely[^1]. To ink the ribbon well, it is necessary to actively spread and work in the ink. This article describes a way to re-ink your nylon ribbon using a brush, resulting in uniform printing from the first letter typed.  
+Although various other instructions for re-inking ink ribbons are available on the web, the frequently recommended passive technique[^1] is not effective for nylon ribbons. The problem is that nylon absorbs only a little water[^2] and so, inking the ribbon requires actively spreading and working in the water-based ink[^3]. This article describes a way to re-ink your nylon ribbon using a brush to achieve uniform printing right from the start.  
 
 ### Materials:  
 
@@ -46,7 +46,18 @@ Although various other written instructions for re-inking ink ribbons are availa
 * If an area of the ribbon is too wet: clean the bristles of the brush on dry paper and then pass the tip of the brush over the wet area to absorb the excess ink.  
 * If an area of ribbon is too dry: first, place the tip of the brush on the adjacent damp area and pull with firm pressure towards the dry area. Repeat this process until the ink is uniformly distributed. If the area remains too dry, wet the brush with a small amount of ink and apply.  
 
-[^1]: Time and ink. Here the author must admit that he is somewhat (though not impossibly) impatient and that he prefers typing to inking. He applied a drop of ink every inch or so along the whole length of the ribbon, wound the ribbon up, and let it sit for 2 hours. Upon examining the ribbon, he found that the ink was pooled just where it had been applied. But maybe you yourself have more time and patience available. So, if there's no hurry, why not wait 2 days, or 2 weeks, or even two months? Given enough time, it seems probable that the ink will indeed disperse throughout the ribbon.  
+#### Clean up  
+
+1. Start with paper. Wiping with paper will clean up most of the ink from the brush, the bobbins, the tile, the ink bottle, your hands and anything non-porous you accidentally touched.  
+2. Install the ribbon in the typewriter.  
+3. Pick up your work area.  
+4. Wash up. Apply a few drops of the oil to the ink stains on your hands.
+Clean your hands off with paper. Wash your hands with soap and water. Congratulations! It's time to try out that typewriter!  
+
+
+[^1]: see for example: <https://site.xavier.edu/polt/typewriters/tw-restoration.html> under "Typing"; <https://www.wikihow.com/Reink-a-Typewriter-Ribbon>.
+[^2]: In fact, nylon, also known in chemistry as polyamide, absorbs relatively little water <https://www.intechpower.com/material-information/effects-of-moisture-absorption> compared to highly absorbent cotton <https://sciencing.com/cotton-absorbent-6662538.html>.  
+[^3]: Given that nylon accepts water according to the conditions of its surrounding environment, the best approach is to control those conditions to assure that it fills with ink. Get ready to paint!  
 
 <!-- [[cinta-recarga.md]] -->  
 <!-- [[typewriter.md]] -->  

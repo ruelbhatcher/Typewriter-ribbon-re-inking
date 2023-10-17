@@ -1,6 +1,6 @@
 # Cómo recargar una cinta entintada de nailon  
 
-Aunque existen en la web otras instrucciones acerca de como recargar una cinta de tinta, las que he encontrado no son eficaces para cintas de nailon. La cinta de nailon no se puede cargar rápidamente por echar unas cuantas gotas y esperar que se distribuya completamente[^1]. Para cargar bien la cinta, hace falta distribuir e introducir la tinta de manera activa. Este artículo describe un método de recargar su cinta de nailon con un pincel para lograr una imprenta uniforme desde la primera letra tecleada.  
+Aunque existen en la web otras instrucciones acerca de como recargar una cinta entintada, la técnica pasiva frecuentemente recomendada[^1] no es eficaz para cintas de nailon. El problema es que el nailon absorbe poca agua[^2] y así, para cargar bien la cinta hace falta distribuir e introducir la tinta al agua de manera activa[^3]. Este artículo describe un método de recargar su cinta de nailon con un pincel para lograr una imprenta uniforme desde la primera letra tecleada.  
 
 ### Materiales:  
 
@@ -46,7 +46,18 @@ Aunque existen en la web otras instrucciones acerca de como recargar una cinta d
 * En caso de una zona demasiada húmeda: limpia las cerdas del pincel en un papel seco y luego pasa el punto del pincel encima de la área mojada para absorber el exceso de tinta.
 * En caso de una zona demasiada seca: con presión firme, pasa el punto del pincel desde la zona húmeda adyacente hacia la zona seca. Repita este paso hasta que la tinta se distribuya de manera uniforme. Si una parte queda demasiado seca, moje las cerdas con un poco de tinta y pase el pincel varias veces por esa parte.  
 
-[^1]: Tiempo y tinta. Aquí el autor ha de admitir que es algo (aunque no imposiblemente) impaciente y que más le gusta mecanografiar que entintar. Se echó una gota de tinta cada cuantos 25mm tras todo lo largo de la cinta, se la rebobinó, y se dejó reposar durante 2 horas. Al examinar la cinta, se encontró que la tinta se quedó estancada justamente donde se había aplicado. Pero tal vez usted dispone de más paciencia y más tiempo. Si no hay prisa, ¿por qué no esperar 2 días, o 2 semanas, o hasta 2 meses? Con tiempo suficiente, parece probable que la tinta sí se dispersará por toda la cinta.  
+#### Limpieza  
+
+1. Empiece con papel. Pasar con papel limpiará la mayoría de la tinta del pincel, de los carretes, de la losa, de la botella de tinta, de las manos y de cuaquier otra cosa no-porosa que tocó por casualidad.  
+2. Coloque la cinta en la máquina de escribir.  
+3. Recoja la area de trabajo  
+4. Aseo. Aplique unas gotas de aceite a las manchas de tinta en las manos. Limpielas con papel. Lavese las manos con agua y jabón. ¡Felicidades! ¡Ya es hora de probar esta máquina de escribir!  
+
+
+[^1]: vease por ejemplo: <https://site.xavier.edu/polt/typewriters/tw-restoration.html> debajo de "Typing"; <https://www.wikihow.com/Reink-a-Typewriter-Ribbon>.
+[^2]: De hecho, el nailon, también conocido como poliamida en la química, absorbe relativamente poca agua <https://www.buscador.com/nylon/> en comparación con el algodón <http://es.scienceaq.com/Chemistry/100311054.html>.  
+[^3]: Así que el nailon acepta el agua de acuerdo con las condiciones ambientales, más vale controlar esas condiciones para asegurar que se cargue de tinta. ¡A pintar!  
+
 
 <!-- [[ribbon-reInk.md]] -->  
 <!-- [[typewriter.md]] -->  
