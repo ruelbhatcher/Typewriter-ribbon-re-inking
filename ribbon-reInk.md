@@ -51,8 +51,9 @@ Although various other instructions for re-inking ink ribbons are available on t
 1. Start with paper. Wiping with paper will clean up most of the ink from the brush, the bobbins, the tile, the ink bottle, your hands and anything non-porous you accidentally touched.  
 2. Install the ribbon in the typewriter.  
 3. Pick up your work area.  
-4. Wash up. Apply a few drops of the oil to the ink stains on your hands.
-Clean your hands off with paper. Wash your hands with soap and water. Congratulations! It's time to try out that typewriter!  
+4. Wash up. Apply a few drops of the oil to the ink stains on your hands, rub the oil in well and then wipe off your hands with paper. Para terminar, wash your hands with soap and water.  
+
+Congratulations! It's time to try out that typewriter!  
 
 
 [^1]: see for example: <https://site.xavier.edu/polt/typewriters/tw-restoration.html> under "Typing"; <https://www.wikihow.com/Reink-a-Typewriter-Ribbon>.

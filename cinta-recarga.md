@@ -51,7 +51,9 @@ Aunque existen en la web otras instrucciones acerca de como recargar una cinta e
 1. Empiece con papel. Pasar con papel limpiará la mayoría de la tinta del pincel, de los carretes, de la losa, de la botella de tinta, de las manos y de cuaquier otra cosa no-porosa que tocó por casualidad.  
 2. Coloque la cinta en la máquina de escribir.  
 3. Recoja la area de trabajo  
-4. Aseo. Aplique unas gotas de aceite a las manchas de tinta en las manos. Limpielas con papel. Lavese las manos con agua y jabón. ¡Felicidades! ¡Ya es hora de probar esta máquina de escribir!  
+4. Aseo. Aplique unas gotas de aceite a las manchas de tinta en las manos, frotese las manos y luego limpielas con papel. Para terminar, lavese las manos con agua y jabón.  
+
+¡Felicidades! ¡Ya es hora de probar esta máquina de escribir!  
 
 
 [^1]: vease por ejemplo: <https://site.xavier.edu/polt/typewriters/tw-restoration.html> debajo de "Typing"; <https://www.wikihow.com/Reink-a-Typewriter-Ribbon>.
