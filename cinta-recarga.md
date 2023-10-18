@@ -36,7 +36,7 @@ Aunque existen en la web otras instrucciones acerca de como recargar una cinta e
 4. Inspeccione la cinta: Rebobine toda la cinta en un solo carrete. Examine la cinta mientras se rebobina de un carrete al otro. Asegure que toda la cinta está en buenas condiciones (Si se encuentra que cualquier parte de la cinta está rota, más vale reemplazar la cinta).  
 5. Coloque la cinta con el carrete lleno a la izquierda de la losa y el carrete vacío a la derecha (Para una persona surda, será al revés). Averigüe que la cinta puede pasar plano por encima de la losa  
 
-#### Re-entinte la cinta  
+#### Recargue la cinta  
 
 6. Eche unos 5 - 10 gotas de tinta en la superficie de la losa a como 20 mm (3/4 plg) distancia de la cinta  
 7. Moje las cerdas del pincel en la tinta. Con la mano libre, aguanta el carrete izquierdo mientras se usa el pincel para aplicar la tinta a la cinta. Use presión firme y movimientos paralelos a la largura de la cinta. Siga hasta que la tinta se distribuye de manera uniforme en las fibras de la cinta. La superficie de la cinta lucirá húmeda y brillosa, pero no mojada.  
