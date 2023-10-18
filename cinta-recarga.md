@@ -40,7 +40,10 @@ Aunque existen en la web otras instrucciones acerca de como recargar una cinta e
 
 6. Eche unos 5 - 10 gotas de tinta en la superficie de la losa a como 20 mm (3/4 plg) distancia de la cinta  
 7. Moje las cerdas del pincel en la tinta. Con la mano libre, aguanta el carrete izquierdo mientras se usa el pincel para aplicar la tinta a la cinta. Use presión firme y movimientos paralelos a la largura de la cinta. Siga hasta que la tinta se distribuye de manera uniforme en las fibras de la cinta. La superficie de la cinta lucirá húmeda y brillosa, pero no mojada.  
-8. Rebobina la porción de cinta ya entintada en el carrete. Repite el paso 7 para cada parte de la cinta de un extremo al otro.
+8. Rebobina en el carrete la porción de cinta que se acaba de entintar. Añade unas gotas de tinta a la losa si hace falta.  
+
+Repite los pasos 7 y 8 para cada parte de la cinta de un extremo al otro.
+
 9. Afinamiento: Intercambie las posiciones de los dos carretes y pase la cinta de un carrete al otro parte por parte. En cada parte, pase el pincel por la cinta varias veces con presión firme para asegurar una distribución uniforme de tinta. 
 
 * En caso de una zona demasiada húmeda: limpia las cerdas del pincel en un papel seco y luego pasa el punto del pincel encima de la área mojada para absorber el exceso de tinta.

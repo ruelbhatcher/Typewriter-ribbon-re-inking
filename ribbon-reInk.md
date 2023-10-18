@@ -38,9 +38,12 @@ Although various other instructions for re-inking ink ribbons are available on t
 
 #### Re-ink the ribbon  
 
-6. Put 5 - 10 drops of ink on the tile about 20 mm (3/4 in) away from the ribbon  
-7. Wet the tip of the brush with ink. Use your free hand to hold the full spool and apply the ink to the ribbon using firm brush strokes parallel to the length of the ribbon. Continue passing the brush over the ribbon until the ink is uniformly distributed. A well inked ribbon will appear damp and glossy, but not wet.  
-8. Wind the re-inked part of the ribbon onto the right hand spool and repeat step 7 for each new section, adding more ink to the tile as needed.  
+6. Put 5 - 10 drops of ink on the tile about 20 mm (3/4 in) away from the ribbon and wet the tip of the brush with ink.  
+7. Use your free hand to hold the full spool and apply the ink to the ribbon using firm brush strokes parallel to the length of the ribbon. Continue passing the brush over the ribbon until the ink is uniformly distributed. A well inked ribbon will appear damp and glossy, but not wet.  
+8. Wind the re-inked part of the ribbon onto the right hand spool and add a few more drops of ink to the tile if needed.  
+
+Repeat steps 7 and 8 for each section of ribbon from one end to the the other.  
+
 9. Fine tuning: Reverse the positions of the two ribbon spools and firmly pass the brush several times over each section of ribbon. Assure that the ink is applied evenly with no wet or dry areas. Work from one end of the ribbon to the other.  
 
 * If an area of the ribbon is too wet: clean the bristles of the brush on dry paper and then pass the tip of the brush over the wet area to absorb the excess ink.  
