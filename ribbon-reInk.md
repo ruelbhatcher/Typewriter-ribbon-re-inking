@@ -21,13 +21,12 @@ Although various other instructions for re-inking ink ribbons are available on t
 
 * Review the instructions and prepare everything before starting  
 * Work by a bright lamp or window so that you can see clearly  
-* Avoid spills: *set the ink bottle away from the area where you are working with the brush and ribbon.* Add more drops of ink to the tile when you need it  
 
 ### Procedure  
 
 #### Set up your work area  
 
-1. On a flat, stable surface, clear an area approximately 60 cm x 60 cm (24 in x 24 in) and then cover the area with a few layers of paper or a large piece of cardboard. Paper materials will both protect the surface and absorb  the small ink spills that may occur while working  
+1. On a flat, stable surface, clear an area approximately 40 cm x 40 cm (16 in x 16 in) and then cover the area with a few layers of paper or a large piece of cardboard. Paper materials will both protect the surface and absorb  the small ink spills that may occur while working  
 2. Set out the tile, brush, ink bottle, and paper for clean up  
 
 #### Inspect the ribbon and get it ready  

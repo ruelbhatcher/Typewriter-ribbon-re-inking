@@ -21,13 +21,12 @@ Aunque existen en la web otras instrucciones acerca de como recargar una cinta e
 
 * Revise las instrucciones y prepare todo antes de empezar  
 * Trabaje cerca de o una lámpara o una ventana luminosa para ver claramente   
-* Evite derrames: *coloque la botella de tinta en la área de trabajo pero fuera de la zona donde trabaja con el pincel y la cinta.* Es fácil añadir más tinta a la losa cuando hace falta.  
 
 ### Procedimiento  
 
 #### Prepare la área de trabajo  
 
-1. En un espacio plano y estable, despeje una área de unos 60 cm x 60 cm (24 plg x 24 plg) y coloque encima varias capas de papel o una hoja grande de cartón. Los materiales de papel sirven ambos para proteger la superficie y absorber pequeñas cantidades de tinta que puede caer durante el trabajo. 
+1. En un espacio plano y estable, despeje una área de unos 40 cm x 40 cm (16 plg x 16 plg) y coloque encima varias capas de papel o una hoja grande de cartón. Los materiales de papel sirven ambos para proteger la superficie y absorber pequeñas cantidades de tinta que puede caer durante el trabajo. 
 2. Coloque la losa, el pincel, la tinta y el papel para limpieza en el espacio de trabajo  
 
 #### Inspeccione y prepare la cinta   
