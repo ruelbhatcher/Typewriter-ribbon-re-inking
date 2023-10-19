@@ -31,7 +31,7 @@ Although various other instructions for re-inking ink ribbons are available on t
 
 #### Inspect the ribbon and get it ready  
 
-3. Remove the ribbon from the typewriter by removing the ribbon from the ribbon carrier and then lifting the spools up out of the spool carriers  
+3. Remove the ribbon from the typewriter (this generally requires releasing the ribbon from the ribbon guide and then removing the two spools).   
 4. Inspect the ribbon: Wind the ribbon onto one spool. Look at the ribbon carefully as you wind it from the full spool onto the empty spool. Assure that the ribbon is in good condition from one end to the other (If any part of the ribbon is damaged, it's best to replace the ribbon).  
 5. Place the full spool on the left hand side of the tile and the empty spool on the right hand side (Reverse this if you are left handed.) and make sure that the ribbon lays flat where it passes over the tile.  
 

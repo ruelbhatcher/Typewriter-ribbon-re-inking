@@ -31,7 +31,7 @@ Aunque existen en la web otras instrucciones acerca de como recargar una cinta e
 
 #### Inspeccione y prepare la cinta   
 
-3. Saque la cinta de la máquina de escribir  
+3. Saque la cinta de la máquina de escribir (generalmente hay que soltar la cinta del guía y sacar los dos carretes).  
 4. Inspeccione la cinta: Rebobine toda la cinta en un solo carrete. Examine la cinta mientras se rebobina de un carrete al otro. Asegure que toda la cinta está en buenas condiciones (Si se encuentra que cualquier parte de la cinta está rota, más vale reemplazar la cinta).  
 5. Coloque la cinta con el carrete lleno a la izquierda de la losa y el carrete vacío a la derecha (Para una persona surda, será al revés). Averigüe que la cinta puede pasar plano por encima de la losa  
 
