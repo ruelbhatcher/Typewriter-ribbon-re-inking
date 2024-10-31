@@ -55,7 +55,7 @@ Repita los pasos 7 y 8 para cada parte de la cinta de un extremo al otro.
 3. Recoja la area de trabajo  
 4. Aseo. Aplique unas gotas de aceite a las manchas de tinta en las manos, frotese las manos y luego limpielas con papel. Para terminar, lavese las manos con agua y jabón.  
 
-¡Felicidades! ¡Ya es hora de probar esta máquina de escribir!  
+¡Felicidades! ¡Ya es hora de probar la máquina de escribir!  
 
 
 [^1]: vease por ejemplo: <https://site.xavier.edu/polt/typewriters/tw-restoration.html> debajo de "Typing"; <https://www.wikihow.com/Reink-a-Typewriter-Ribbon>.
