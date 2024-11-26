@@ -14,7 +14,7 @@ Aunque existen en la web otras instrucciones acerca de como recargar una cinta e
 ### Herramientas:  
 
 * Pincel: plano, de unos 13 mm (1/2 plg) de ancho, con cerdas firmes  
-* Losa: una losa plana y lisa de vidrio o porcelana  
+* Losa: una losa plana y lisa de vidrio o porcelana. Un cuadrado de unos 8 mm x 8 mm (2 plg x 2 plg) sirve bien.  
 * Delantal o camisa vieja. La tinta salpica. ¿En verdad ha de arruinarse esa camisa linda?  
 
 ### Consejos  
