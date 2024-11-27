@@ -14,7 +14,7 @@ Although various other instructions for re-inking ink ribbons are available on t
 ### Tools:  
 
 * Brush: a flat brush about 13 mm (1/2 in) wide with stiff bristles  
-* Tile: a piece of flat, smooth porcelain or glass tile. A square measuring 8 mm x 8 mm (2 in x 2 in) works well.  
+* Tile: a piece of flat, smooth porcelain or glass tile. A square of around 8 mm x 8 mm (2 in x 2 in) works well.  
 * Apron or old shirt: Ink can splatter. Do you really want to ruin that nice shirt?
 
 ### Tips  
